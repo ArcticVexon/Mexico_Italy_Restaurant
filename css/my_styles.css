@@ -2,7 +2,7 @@ h1 {
     background-color:#ce1126;
 }
 body {
-    background-color: green;
+    background-color:#b99e6b;
 }
 div.menu {
     background-color:white;
@@ -11,6 +11,7 @@ div.menu {
     padding:20px;
 }
 div {
+
     border: 1px solid black;
     padding: 10px;
     margin: 30px;
