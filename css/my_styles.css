@@ -1,5 +1,7 @@
 h1 {
     background-color:#ce1126;
+    font-style: italic;
+    font-family: fantasy;
 }
 body {
     background-color:#b99e6b;
@@ -14,5 +16,5 @@ div {
     background-color:#b7b36a;
     border: 1px solid black;
     padding: 10px;background-color: #8cac87;
-    margin: 30px;color: #9f9675;
+    margin: 30px;
 }
