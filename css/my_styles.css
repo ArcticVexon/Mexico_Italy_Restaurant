@@ -10,3 +10,8 @@ div.menu {
     margin:20px;
     padding:20px;
 }
+div {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+}
