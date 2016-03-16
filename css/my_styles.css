@@ -3,6 +3,12 @@ h1 {
     font-style: italic;
     font-family: fantasy;
 }
+div.h3 {
+    background-color:#ce1126;
+    font-style: italic;
+    font-family: fantasy;
+    position: absolute;
+}
 body {
     background-color:#b99e6b;
 }
@@ -19,7 +25,7 @@ div.home{
 }
 div {
     background-color:#b7b36a;
-    color:#979797; 
+    color:#979797;
     border: 1px solid black;
     padding: 10px;background-color: #8cac87;
     margin: 30px;
