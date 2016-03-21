@@ -35,28 +35,6 @@ p {
 h3{
   color:#432D24;
 }
-index.ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-index.li {
-    display: inline;
-}
-about.ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-about.li {
-    display: inline;
-  }
-
-menu.ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-menu.li {
-    display: inline;
+h4{
+  color:#EE8823;
 }
