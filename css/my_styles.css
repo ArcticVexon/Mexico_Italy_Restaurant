@@ -20,17 +20,15 @@ div.menu {
     margin:20px;
     padding:20px;
 }
-div.home{
-    background-color:#979797;
-    color:red;
 
-}
 div {
     background-color:#b7b36a;
     color:#979797;
     border: 1px solid black;
     padding: 10px;background-color: #8cac87;
     margin: 30px;
+    width: 300px;
+    height: 400px;
 }
 p {
   color: #845321;
