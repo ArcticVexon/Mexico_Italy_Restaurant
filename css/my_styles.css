@@ -5,11 +5,19 @@ h1 {
     margin: argin:20px;
     padding:20px;
 }
-div.h3 {
+
+h2 {
+    color: white;
+    font-family: Arial;
+
+}
+div.class h3 {
     background-color:#ce1126;
     font-style: italic;
     font-family: fantasy;
-    position: absolute;
+color: white;
+
+    /*position: absolute;*/
 }
 body {
     background-color:#b99e6b;
